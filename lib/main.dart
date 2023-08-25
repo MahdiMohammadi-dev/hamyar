@@ -3,6 +3,8 @@ import 'package:flutter_localizations/flutter_localizations.dart';
 import 'package:hamyar/view/splashScreen.dart';
 import 'package:supabase_flutter/supabase_flutter.dart';
 
+//Develped By Mahdi Mohammadi
+
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   //TODO:Set the url and key on a variable and passed it onto Supabase

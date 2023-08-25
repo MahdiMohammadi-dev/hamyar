@@ -48,7 +48,7 @@ class _SignUpPageState extends State<SignUpPage> {
                 'به سیستم هوشمند اعلام وضعیت همیار خوش آمدید',
                 style: TextStyle(
                     fontFamily: 'nastaliq',
-                    fontSize: size.height / 18,
+                    fontSize: size.height / 25,
                     overflow: TextOverflow.ellipsis),
               ),
               //TODO:TextField Section
